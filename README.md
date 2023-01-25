@@ -7,11 +7,8 @@
 [![Instagram](./images/instagram-icon.svg)](https://www.instagram.com/pagekasra)
 
 ## I'm a Frontend Web Developer
----
+
 Graduated Software Engineer, Eager to face new challenges and improve my career. I'm currently focused on honing my frontend skills.
-
----
-
 
 ### Tech (Recent)
 
