@@ -17,6 +17,7 @@ Graduated Software Engineer, Eager to face new challenges and improve my career.
   [![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   
   [![Styled-components](https://img.shields.io/badge/-Styled--Compoents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
