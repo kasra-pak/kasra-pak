@@ -22,7 +22,6 @@ Graduated Software Engineer, Eager to face new challenges and improve my career.
   [![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)](https://mui.com/)
   [![Styled-components](https://img.shields.io/badge/-Styled--Compoents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-  [![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat&logo=cssmodules&logoColor=white)](https://github.com/css-modules)
   [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
   
   [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -34,8 +33,10 @@ Graduated Software Engineer, Eager to face new challenges and improve my career.
   [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)](https://webpack.js.org/)
   [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
   
-  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
   [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
   [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white)](https://www.vim.org/)
+  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+  
 
+<!--   [![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat&logo=cssmodules&logoColor=white)](https://github.com/css-modules) -->
 </p>
