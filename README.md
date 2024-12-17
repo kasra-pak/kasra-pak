@@ -3,8 +3,6 @@
 [![Gmail](./images/gmail-icon.svg)](mailto:kasrapak69@gmail.com)
 &nbsp;
 [![Linkedin](./images/linkedin-icon.svg)](https://www.linkedin.com/in/kasra-pak)
-&nbsp;
-[![Instagram](./images/instagram-icon.svg)](https://www.instagram.com/pagekasra)
 
 ## I'm a Frontend Web Developer
 
