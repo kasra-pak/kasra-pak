@@ -6,7 +6,7 @@
 
 ## I'm a Frontend Web Developer
 
-Graduated Software Engineer, Eager to face new challenges and improve my career. I'm currently focused on honing my frontend skills.
+Graduated Software Engineer, Eager to face new challenges. With over 2 years of experience designing, developing, and maintaining frontend web applications.
 
 ### Tech (Recent)
 
@@ -19,11 +19,12 @@ Graduated Software Engineer, Eager to face new challenges and improve my career.
   
   <!-- [![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)](https://mui.com/) -->
   <!-- [![Styled-components](https://img.shields.io/badge/-Styled--Compoents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/) -->
-  <!-- [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) -->
+  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   <!-- [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/) -->
+  <!-- [![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat&logo=cssmodules&logoColor=white)](https://github.com/css-modules) -->
   
-  <!-- [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/) -->
   [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org)
+  [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
   <!-- [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/) -->
   
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
@@ -35,6 +36,5 @@ Graduated Software Engineer, Eager to face new challenges and improve my career.
   <!-- [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white)](https://www.vim.org/) -->
   <!-- [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) -->
   
-
-<!--   [![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat&logo=cssmodules&logoColor=white)](https://github.com/css-modules) -->
+  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 </p>
